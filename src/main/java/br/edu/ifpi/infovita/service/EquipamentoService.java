@@ -26,4 +26,5 @@ public class EquipamentoService {
     public List<Equipamento> findALl(){
         return equipamentoRepository.findAll();
     }
+
 }
